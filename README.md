@@ -1,4 +1,4 @@
-# calculateurCalories
+# calculateurCaloriesPython
 
 Trouver son nombre de calories :
 
